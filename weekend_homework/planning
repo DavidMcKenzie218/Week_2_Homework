@@ -1,0 +1,18 @@
+Room class  - Add a guest
+                - Call a guest from  the guest class
+                - Add them to an array/hash
+            - Romove a guest
+                - Remove the guest from the array/hash 
+            - Add a song 
+                - Call a song from the song class
+                - Add that song to an array/hash
+            - Remove a song
+                - Remove the song from the array/hash
+
+Songs class - Title
+            - Artist
+            - Song Length
+            - Store the songs in a hash?
+
+guest class - Name
+            - Store the guests in a hash?
